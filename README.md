@@ -30,3 +30,9 @@ View this jekyll theme in action [here](https://jeromelachaud.github.io/freelanc
 
 ---------
 For more details, read the [documentation](http://jekyllrb.com/)
+
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <a href="#" class="btn btn-lg btn-outline">
+                        <i class="fa fa-download"></i> Download Theme
+                    </a>
+                </div>
