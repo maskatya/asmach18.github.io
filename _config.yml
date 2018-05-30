@@ -39,8 +39,8 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  - title: vk
+    url: https://vk.com/id450190284
   - title: facebook
     url:
   - title: stack-overflow
@@ -53,7 +53,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: г. Ижевск
-  - line: Удмуртска Республика
+  - line: Удмуртская Республика
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
